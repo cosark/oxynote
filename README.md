@@ -132,6 +132,10 @@ instance.
 from a real domain to an external PostgreSQL. To run from source, see
 [CONTRIBUTING.md](CONTRIBUTING.md).
 
+### One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Oxynote/)
+
 ## Features
 
 Oxynote keeps the pages about your systems, such as architecture notes, API
